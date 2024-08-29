@@ -15,7 +15,7 @@ COOKIE = ""
 ADMINS = [5572938538]
 
 
-BOT_USERNAME = "teraboxdown_bot"
+BOT_USERNAME = "xadmin_testbot"
 
 # Force user to join this channel. (make sure you have promoted the bot on this chat.)
 FORCE_LINK = "@MohanishX"
