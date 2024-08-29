@@ -18,6 +18,5 @@ ADMINS = [5572938538]
 BOT_USERNAME = "xadmin_testbot"
 
 # Force user to join this channel. (make sure you have promoted the bot on this chat.)
-FORCE_LINK = "@MohanishX"
-
+FORCE_LINK = "@MohanishX"; #csrfToken=bJ6OTVQ_wkpOHzBs1nwS_cRc; ab_ymg_result={"data":"ef9e44c68bb12e5c7bcb097e6db21bde06d3c022f9ecdf4b6f2ca6592debf04d7ce44a2968b2915c3be47a6b943c307a49f9212d7ec543fd6e8324c62ab980bda425b8e105f47392a850ec917c04186b700c3cd99bb16195f30f2cc8bddca7b0f3efc87e88a412bb466651248389753033582ed5bb1d57934d6c8d945a6e3b05","key_id":"66","sign":"e603db16"}; ab_sr=1.0.1_MjdjYTgzMjNiYzEyNmZmYWEyNWQxYjhjMGY4NWUyYTBlNWJkYzZjMzU0YjRiYWQ3NDZlOTBhMDMyOThhM2IzNDAxYmVlY2QzMjI1ZjBiZTk1Yzg5MDdmMjYyYjJkMmRkNmJlYTQ2ODU4MzE0OTdjNmViZDk2MGUwZjkxMjE1N2E5NzI5Zjc5Y2QwMDc5YzNjMTkwZThlMDFjMzk1NzY5ZQ==; ndut_fmt=E37ABE0EC316C2C84CCAF92A82DCBC13B0FA7103D081C83E95574308F011A7B9; _ga_06ZNKL8C2E=GS1.1.1724908083.2.1.1724908202.4.0.0
 PUBLIC_EARN_API = ""  # https://publicearn.com/api
